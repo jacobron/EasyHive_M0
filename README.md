@@ -3,7 +3,7 @@ M0-Board Code (Arduino C++) and Hardware Files V1.3
 
 This Board is designed for the purpose of remote and off-grid temperature and weight measurements.
 
-#Features
+# Features
 
 * ADS1232 ADC-IC for weight reading up to two load-cells
 * ATSAMD21G - CortexM0 Microcontroller - programmable with Arduino Software
