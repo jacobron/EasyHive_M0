@@ -10,8 +10,11 @@ This Board is designed for the purpose of remote and off-grid temperature and we
 * Ublox SaraN200 NB-IOT Chip for sending data via narrowband-LTE
 * BQ24072 charging IC for USB/Solar and battery temperature monitoring
 * DS18B20 temperatur sensor von Maxim Integrated
+* Piezo Buzzer and RGB LED for user communication
 
 The board features additional connections for I2S and I2C sensors, which are not used yet.
+
+![BoardV12](https://github.com/jacobron/EasyHive_M0/Version12.jpg "Easyhive-Board")
 
 
 # copyright
