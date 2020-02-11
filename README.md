@@ -14,7 +14,7 @@ This Board is designed for the purpose of remote and off-grid temperature and we
 
 The board features additional connections for I2S and I2C sensors, which are not used yet.
 
-![BoardV12](https://github.com/jacobron/EasyHive_M0/Version12.jpg)
+![BoardV12](https://github.com/jacobron/EasyHive_M0/blob/master/Version12.jpg)
 
 
 # copyright
