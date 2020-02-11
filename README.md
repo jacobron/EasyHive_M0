@@ -5,11 +5,11 @@ This Board is designed for the purpose of remote and off-grid temperature and we
 
 #Features
 
-*ADS1232 ADC-IC for weight reading up to two load-cells
-*ATSAMD21G - CortexM0 Microcontroller - programmable with Arduino Software
-*Ublox SaraN200 NB-IOT Chip for sending data via narrowband-LTE
-*BQ24072 charging IC for USB/Solar and battery temperature monitoring
-*DS18B20 temperatur sensor von Maxim Integrated
+* ADS1232 ADC-IC for weight reading up to two load-cells
+* ATSAMD21G - CortexM0 Microcontroller - programmable with Arduino Software
+* Ublox SaraN200 NB-IOT Chip for sending data via narrowband-LTE
+* BQ24072 charging IC for USB/Solar and battery temperature monitoring
+* DS18B20 temperatur sensor von Maxim Integrated
 
 The board features additional connections for I2S and I2C sensors, which are not used yet.
 
